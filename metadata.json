@@ -1,0 +1,6 @@
+{
+  "name": "Game of Thrones Pub POS",
+  "description": "High-performance pub POS and operations platform with real-time inventory ledger, staff shifts, customer tabs, and management intelligence.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
